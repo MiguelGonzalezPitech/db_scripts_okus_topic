@@ -1,5 +1,5 @@
 
-(py | python3) -m venv ./env/
+(py | python3) -m venv ./env/ <br />
 On MAC OS
 --> source env/bin/activate
 On Windows
